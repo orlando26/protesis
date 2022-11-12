@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Saturday, September 17, 2022
+Design Path:        C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis.pcb
+Design Title:       
+Created:            9/17/2022 11:22:17 AM
+Last Saved:         9/17/2022 11:23:35 AM
+Editing Time:       1 min
+Units:              cm (precision 2)
+
+Could not load component "Regulator - 3 terminal" package "SPICE" into target design.
+Could not add "Elevador" component "Regulator - 3 terminal" package "SPICE" to target design.
+
+End Of Report.

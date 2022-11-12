@@ -1,0 +1,269 @@
+Plot Report
+-----------
+
+Report Written:     Saturday, September 17, 2022
+Project Path:       C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis.prj
+Design Path:        C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis.pcb
+Design Title:       
+Created:            9/17/2022 11:22:17 AM
+Last Saved:         9/17/2022 2:08:45 PM
+Editing Time:       146 min
+Units:              cm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Top Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Top Silkscreen
+    Top Copper
+    Top Paste
+    Bottom Copper
+    Bottom Silkscreen
+    Bottom Paste
+    Bottom Resist
+    Documentation
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 50.00
+    D11    Round 56.00
+    D12    Round 15.00
+    D13    Round 48.00
+    D14    Square 60.00
+    D15    Round 60.00
+    D16    Round 94.49
+    D20    Round 5.00
+    D21    Round 1.97
+    D22    Round 62.00
+    D23    Round 54.00
+    D24    Square 66.00
+    D25    Round 66.00
+    D26    Round 70.96
+    D27    Round 100.49
+    D28    Round 131.98
+    D29    Round 7.87
+    D80    Round 10.00
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 50.00
+    D11    Round 56.00
+    D12    Round 15.00
+    D13    Round 48.00
+    D14    Square 60.00
+    D15    Round 60.00
+    D16    Round 94.49
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D17    Square 70.00
+    D18    Round 70.00
+    D19    Round 74.96
+    D70    Round 104.49
+    D71    Round 135.98
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 50.00
+    D11    Round 56.00
+    D12    Round 15.00
+    D13    Round 48.00
+    D14    Square 60.00
+    D15    Round 60.00
+    D16    Round 94.49
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 5.00
+    D21    Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Bottom Resist.gbr
+
+    Layers:
+    -----------------
+    Bottom Resist
+
+    D-Code Shape  (thou)
+    -----------------------
+    D22    Round 62.00
+    D23    Round 54.00
+    D24    Square 66.00
+    D25    Round 66.00
+    D26    Round 70.96
+    D27    Round 100.49
+    D28    Round 131.98
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 5.00
+    D29    Round 7.87
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (thou)
+    -----------------------
+    D72    Round 32.00
+    D73    Round 24.00
+    D74    Round 40.00
+    D75    Round 64.96
+    D76    Round 35.00
+    D77    Round 62.99
+    D78    Round 125.98
+
+NC Drill Output
+===============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - NC Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 6     B
+    T002  0.03200 inches 8     A
+    T003  0.03500 inches 13    E
+    T004  0.04000 inches 30    C
+    T005  0.06299 inches 4     F
+    T006  0.06496 inches 4     D
+    T007  0.12598 inches 4     G
+    --------------------------------------
+    Total                69
+    --------------------------------------
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - NC Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\orlan\OneDrive\Documents\DesignSpark PCB 10.0\protesis - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    32    Y      100  Round A
+    24    Y      100  Round B
+    40    Y      100  Round C
+    65    Y      100  Round D
+    35    Y      100  Round E
+    63    Y      100  Round F
+    126   Y      100  Round G
+
+    D-Code Shape  (thou)
+    -----------------------
+    D20    Round 5.00
+    D79    Round 100.00
+
+End Of Report.
